@@ -1,0 +1,2 @@
+pyinstaller==5.13.0
+uncompyle6==3.9.0
